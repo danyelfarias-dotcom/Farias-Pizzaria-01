@@ -1,0 +1,7 @@
+{
+  "name": "Farias Pizzaria",
+  "description": "Um aplicativo elegante para a Pizzaria Farias, com menu digital, reservas e informações de contato, utilizando uma paleta de cores moderna em preto e verde.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
